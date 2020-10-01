@@ -1,0 +1,8 @@
+import java.util.*;
+class Big
+{
+public void log(int []arr)
+{
+System.out.println(arr[0])
+}
+}
